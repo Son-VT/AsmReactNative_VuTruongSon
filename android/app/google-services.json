@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "181223185763",
+    "firebase_url": "https://lab3-reactnative.firebaseio.com",
+    "project_id": "lab3-reactnative",
+    "storage_bucket": "lab3-reactnative.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181223185763:android:16659d1acbb42a67b6c756",
+        "android_client_info": {
+          "package_name": "com.asmreactnative_vutruongson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181223185763-rf3qjbhseb28v6hae4jn4v37k6qsim4p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asmreactnative_vutruongson",
+            "certificate_hash": "b05f43a1216572be7046b9380e3beaf9e05b9369"
+          }
+        },
+        {
+          "client_id": "181223185763-ojiloakdsnppvr69ct2ebrr8hsrdi6l0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMecPR8YSmST7KZY2iiyWhGnpCMnxetmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181223185763-ojiloakdsnppvr69ct2ebrr8hsrdi6l0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
